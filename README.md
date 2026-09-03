@@ -3,4 +3,4 @@ Description: To have a live real-time tracking system for monitoring individuals
 Tools Used: Looker Studio, Google sheets, Excel Data Modeling
 Outcome: Boosted overall operational efficiency from 85% to 100%
 Time Taken: Nov 2023 - Feb 2024
-Example/Screenshot: 
+Example/Screenshot: https://github.com/vinodkumar65-hub/Live-Utilization-Dashboard/blob/main/Live%20Utilization%20Dashboard.jpg
